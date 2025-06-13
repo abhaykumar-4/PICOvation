@@ -1,6 +1,8 @@
-###I'm on PICOvation duty
+### I'm on PICOvation duty
 
 Hi! This minigame is a demake of the game "I'm on observation duty". Here you will need to watch the cameras for several locations and check that no anomalies have occurred. Can you survive from midnight to 6 AM?
+
+![image](https://github.com/user-attachments/assets/8e165cfd-b467-4641-9f37-420924d71df0)
 
 WARNING: Game contains load disgusting sounds.
 
@@ -18,6 +20,8 @@ Z - send a report
 If you notice an anomaly, open the anomaly report menu on the camera, where it occurred, use the arrows to select the desired anomaly from the eight types offered, and send the report by pressing the Z key.
 
 In total, there are 3 cameras and more than 60 anomalies
+
+![image](https://github.com/user-attachments/assets/dc00225c-170c-4f35-832f-ac2dd075f26c)
 
 **Hints:**
 One game minute is added every second of real time
